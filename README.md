@@ -28,5 +28,4 @@ SkyScope is a simple and fun weather forecast web app built using **HTML**, **CS
 
 🚀 Live Demo
 
-🔗 [Click here to view the live app](https://your-username.github.io/weather-app/)  
-*(Replace this link with your actual GitHub Pages URL)*
+🔗 [Click here to view the live app](https://github.com/Harilynn/Weather-App.git)  
